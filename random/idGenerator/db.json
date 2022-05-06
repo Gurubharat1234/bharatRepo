@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": "TY1",
+      "fName": "bharat",
+      "lName": "malepati",
+      "dob": "05-12-1997`",
+      "doj": "20-11-1000",
+      "dept": "ece"
+    },
+    {
+      "fName": "kumar",
+      "lName": "mal",
+      "dob": "1-2-1990",
+      "doj": "2-3-4",
+      "dept": "bh",
+      "id": "TY2"
+    },
+    {
+      "fName": "ku",
+      "lName": "uriwy",
+      "dob": "]3748",
+      "doj": "878324",
+      "dept": "y8437",
+      "id": "gowy42B"
+    },
+    {
+      "fName": "greeshma",
+      "lName": "wi",
+      "dob": "83287",
+      "doj": "72163",
+      "dept": "876321",
+      "id": "nY30EQK"
+    },
+    {
+      "fName": "bharat kumar",
+      "lName": "MALEPATI",
+      "dob": "05-12-1998",
+      "doj": "12-10-2012",
+      "dept": "ECE",
+      "id": "fNeJ9Jg"
+    }
+  ]
+}
